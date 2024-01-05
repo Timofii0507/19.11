@@ -7,10 +7,13 @@
     <ClCompile Include="point.cpp" />
     <ClCompile Include="lab3.cpp" />
     <ClCompile Include="fraction.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="complex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="rectangle.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="fraction.h" />
+    <ClInclude Include="complex.h" />
   </ItemGroup>
 </Project>

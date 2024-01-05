@@ -127,14 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="complex.cpp" />
     <ClCompile Include="fraction.cpp" />
     <ClCompile Include="lab.cpp" />
     <ClCompile Include="lab2.cpp" />
     <ClCompile Include="lab3.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="point.cpp" />
     <ClCompile Include="rectangle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="complex.h" />
     <ClInclude Include="fraction.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="rectangle.h" />
