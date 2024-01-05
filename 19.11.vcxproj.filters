@@ -9,11 +9,14 @@
     <ClCompile Include="fraction.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="complex.cpp" />
+    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="car.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="rectangle.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="fraction.h" />
     <ClInclude Include="complex.h" />
+    <ClInclude Include="car.h" />
   </ItemGroup>
 </Project>
