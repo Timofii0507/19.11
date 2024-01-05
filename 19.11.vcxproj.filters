@@ -5,9 +5,12 @@
     <ClCompile Include="rectangle.cpp" />
     <ClCompile Include="lab2.cpp" />
     <ClCompile Include="point.cpp" />
+    <ClCompile Include="lab3.cpp" />
+    <ClCompile Include="fraction.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="rectangle.h" />
     <ClInclude Include="point.h" />
+    <ClInclude Include="fraction.h" />
   </ItemGroup>
 </Project>
